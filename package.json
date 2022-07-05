@@ -7,7 +7,6 @@
     "scripts": {
         "prepare": "npm run build && npm run test",
         "build": "tsc",
-        "test": "jasmine"
     },
     "repository": {
         "type": "git",
